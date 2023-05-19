@@ -1,6 +1,8 @@
 <div align="center">
 <img src="/assets/launcher-icon/android/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width=50%>
 </div>
+
+
 # Bacelah
 ## _One stop News App_
 
