@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets\launcher-icon\android\play_store_512.png?raw=true" width=30%>
+<img src="assets\launcher-icon\android\play_store_512.png?raw=true" width=40%>
 </div>
 
 
