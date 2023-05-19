@@ -14,7 +14,7 @@ Bacalah is an application that showing a list of lates news from some online med
 - [x] CNBC
 - [x] Republika
 - [x] Kumparan
-- [x] Okezon
+- [x] Okezone
 
 ## Screenshoot
 <div align="center">
