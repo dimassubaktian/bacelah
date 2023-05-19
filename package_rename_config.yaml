@@ -1,0 +1,10 @@
+package_rename_config:
+  android:
+    app_name: Bacelah
+    package_name: ksl.dimas.bacelah
+    override_old_package: com.example.flutter_news
+    lang: 
+
+  web:
+    app_name: Bacelah
+    description: News App
