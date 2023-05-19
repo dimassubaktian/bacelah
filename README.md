@@ -6,7 +6,7 @@
 # Bacelah
 ## _One stop News App_
 
-Bacalah is an application that showing a list of latest news from some online media. and you can read on inAppWebview.
+Bacelah is an application that showing a list of latest news from some online media. and you can read on inAppWebview.
 
 ## Media Source
 
