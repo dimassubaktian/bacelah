@@ -18,7 +18,7 @@ Bacalah is an application that showing a list of lates news from some online med
 
 ## Screenshoot
 <div align="center">
-<img src="/assets/screenshoot/home_page.png?raw=true" width=30% style="margin: 5px"><img src="/assets/screenshoot/detail_page.png?raw=true" width=30% style="margin: 5px"><img src="/assets/screenshoot/webview_page.png?raw=true" width=30% style="margin: 5px">
+<img src="/assets/screenshoot/home_page.png?raw=true" width=30%>&nbsp;<img src="/assets/screenshoot/detail_page.png?raw=true" width=30%>&nbsp;<img src="/assets/screenshoot/webview_page.png?raw=true" width=30%>
 </div>
  
 ## API
