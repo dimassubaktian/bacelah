@@ -12,6 +12,11 @@ Bacalah is an application that showing a list of lates news from some online med
 - [x] Republika
 - [x] Kumparan
 - [x] Okezon
+
+## Screenshoot
+![Alt text](/assets/screenshoot/home_page.png?raw=true "Home Page")
+![Alt text](/assets/screenshoot/detail_page.png?raw=true "Detail Page")
+![Alt text](/assets/screenshoot/webview_page.png?raw=true "Webview Page")
  
 ## API
 - https://github.com/satyawikananda/berita-indo-api
