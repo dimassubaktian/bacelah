@@ -1,12 +1,12 @@
 <div align="center">
-<img src="/assets/launcher-icon/android/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width=50%>
+<img src="assets\launcher-icon\android\play_store_512.png?raw=true" width=30%>
 </div>
 
 
 # Bacelah
 ## _One stop News App_
 
-Bacalah is an application that showing a list of lates news from some online media. and you can read on in app webview.
+Bacalah is an application that showing a list of lates news from some online media. and you can read on inAppWebview.
 
 ## Media Source
 
