@@ -1,4 +1,4 @@
-![alt text](https://github.com/dimassubaktian/bacelah/blob/master/assets/launcher-icon/android/res/mipmap-xxxhdpi/ic_launcher.png?raw=true)
+![alt text](/assets/launcher-icon/android/res/mipmap-xxxhdpi/ic_launcher.png?raw=true)
 
 # Bacelah
 ## _One stop News App_
